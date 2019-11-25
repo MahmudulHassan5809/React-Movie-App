@@ -1,0 +1,10 @@
+export const GET_MOVIES = 'GET_MOVIES';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const SET_LOADING = 'SET_LOADING';
+export const MOVIE_ERROR = 'MOVIE_ERROR';
+export const SEARCH_MOVIES = 'SEARCH_MOVIES';
+export const SET_SEARCH_TERM = 'SET_SEARCH_TERM';
+export const LOAD_MORE = 'LOAD_MORE';
+export const GET_MOVIE = 'GET_MOVIE';
+export const GET_CREDITS = 'GET_CREDITS';
